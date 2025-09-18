@@ -13,6 +13,8 @@ def left_path():
     print("The blade fills you with courage and strength.")
     print("With it, you defeat the lurking shadows in the forest.")
     print("The kingdom hails you as a true hero who brought peace!")
+    print("Your bravery will be remembered for generations...")
+
 
 def right_path():
     print("You walk right and encounter a wise owl perched on a branch.")
