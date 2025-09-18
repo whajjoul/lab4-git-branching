@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: The hero discovers light, courage, and wisdom to save the kingdom and bring peace.
 - `villain-path`: The hero becomes corrupted and embraces darkness, ruling as a villain.
 
 
