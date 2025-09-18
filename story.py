@@ -17,6 +17,7 @@ def right_path():
     print("You walk right and encounter a talking squirrel... but its eyes glow red.")
     print("It tempts you with promises of dominion over the forest.")
     print("You accept, and the forest bends to your will in fear.")
+    print("The kingdom trembles under your rule of fear...")
 
 if __name__ == "__main__":
     intro()
